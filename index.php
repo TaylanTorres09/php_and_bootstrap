@@ -7,6 +7,7 @@
     <title>Projeto DEV Web</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
@@ -28,11 +29,19 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#contact">Contact</a>
                     </li>
-                    
                 </ul>
             </div>
         </div>
     </nav>
+
+    <div class="box">
+        <section class="banner">
+            <div class="overlay"></div>
+            <div class="container">
+    
+            </div>
+        </section>
+    </div>
 
     <script src="js/bootstrap.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 </body>
