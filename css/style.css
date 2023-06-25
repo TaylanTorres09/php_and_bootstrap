@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section.banner{
+    min-height: 600px;
+    background-image: url('../images/background.jpg');
+    width: 100%;
+    background-size: cover;
+}
