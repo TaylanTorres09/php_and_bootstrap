@@ -5,6 +5,7 @@
 }
 
 section.banner{
+    padding: 180px 0;
     position: relative;
     min-height: 700px;
     background-image: url('../images/background.jpg');
@@ -31,4 +32,23 @@ section.banner > .container{
 .box{
     position: relative;
     top: 30px;
+}
+
+.chamada-banner h2{
+    color: #850b07;
+    font-size: 50px;
+}
+
+.chamada-banner p{
+    color: #ffffff;
+    font-size: 21px;
+    margin: 24px 0;
+}
+
+.chamada-banner a{
+    display: inline-block;
+    color: white;
+    font-size: 19px;
+    padding: 10px 18px;
+    background: #850b07;
 }

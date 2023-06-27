@@ -37,13 +37,12 @@
     <div class="box">
         <section class="banner">
             <div class="overlay"></div>
-            <div class="container">
+            <div class="container chamada-banner">
                 <div class="row">
-                    <div class="col-md-6">
-                        <h2 style="color: white;">Meu texto</h2>
-                    </div>
-                    <div class="col-md-6">
-                        <h2 style="color: white;">Meu texto</h2>
+                    <div class="col-md-12 text-center">
+                        <h2>Projeto DEV Web</h2>
+                        <p>Projeto voltado ao aprendizado de bootstrap</p>
+                        <a href="#">Saiba Mais</a>
                     </div>
                 </div>
             </div>
