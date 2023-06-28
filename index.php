@@ -47,6 +47,22 @@
                 </div>
             </div>
         </section>
+
+        <section class="cadastro-lead">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Entre em nossa lista!</h2>
+                    </div>
+                    <div class="col-md-6">
+                        <form method="post">
+                            <input type="text" name="nome" />
+                            <input type="submit"/>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 
     <script src="js/bootstrap.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
