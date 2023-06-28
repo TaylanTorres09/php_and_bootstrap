@@ -50,14 +50,13 @@
 
         <section class="cadastro-lead">
             <div class="container">
-                <div class="row">
+                <div class="row text-center">
                     <div class="col-md-6">
-                        <h2>Entre em nossa lista!</h2>
+                        <h2> <span class="glyphicon glyphicon-star" aria-hidden="true"></span> Entre em nossa lista!</h2>
                     </div>
                     <div class="col-md-6">
                         <form method="post">
-                            <input type="text" name="nome" />
-                            <input type="submit"/>
+                            <input type="text" name="nome" /><input type="submit" value="Enviar"/>
                         </form>
                     </div>
                 </div>
