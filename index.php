@@ -70,9 +70,9 @@
                     <div class="col-md-12">
                         <h2>Depoimento</h2>
                         <blockquote>
-                            <p>"Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra 
-                                sou euzis!Nec orci ornare consequat. Praesent lacinia ultrices consectetur. 
-                                Sed non ipsum felis.Mais vale um bebadis conhecidiss, que um alcoolatra 
+                            <p>"Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra
+                                sou euzis!Nec orci ornare consequat. Praesent lacinia ultrices consectetur.
+                                Sed non ipsum felis.Mais vale um bebadis conhecidiss, que um alcoolatra
                                 anonimis.Não sou faixa preta cumpadi, sou preto inteiris, inteiris."
                             </p>
                         </blockquote>
@@ -81,6 +81,42 @@
             </div>
         </section>
 
+        <section class="diferenciais text-center">
+            <h2>Conheça a nossa empresa</h2>
+            <div class="container diferenciais-container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3><span class="glyphicon glyphicon-glass"></span></h3>
+                        <h2>Diferencial #1</h2>
+                        <p>"Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra
+                            sou euzis!Nec orci ornare consequat. Praesent lacinia ultrices consectetur.
+                            Sed non ipsum felis.Mais vale um bebadis conhecidiss, que um alcoolatra
+                            anonimis.Não sou faixa preta cumpadi, sou preto inteiris, inteiris."
+                        </p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h3><span class="glyphicon glyphicon-star"></span></h3>
+                        <h2>Diferencial #2</h2>
+                        <p>"Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra
+                            sou euzis!Nec orci ornare consequat. Praesent lacinia ultrices consectetur.
+                            Sed non ipsum felis.Mais vale um bebadis conhecidiss, que um alcoolatra
+                            anonimis.Não sou faixa preta cumpadi, sou preto inteiris, inteiris."
+                        </p>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h3><span class="glyphicon glyphicon-heart"></span></h3>
+                        <h2>Diferencial #3</h2>
+                        <p>"Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra
+                            sou euzis!Nec orci ornare consequat. Praesent lacinia ultrices consectetur.
+                            Sed non ipsum felis.Mais vale um bebadis conhecidiss, que um alcoolatra
+                            anonimis.Não sou faixa preta cumpadi, sou preto inteiris, inteiris."
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>

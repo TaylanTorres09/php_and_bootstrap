@@ -87,6 +87,15 @@ section.depoimento blockquote{
     font-size: 16px;
 }
 
+section.diferenciais{
+    padding: 30px 0;
+    background: rgb(225, 255, 225);
+}
+
+.diferencias-container{
+    margin-top: 30px;
+}
+
 @media screen and (max-width: 1024px){
     section.cadastro-lead form{
         position: relative;
