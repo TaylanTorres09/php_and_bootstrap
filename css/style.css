@@ -1,3 +1,7 @@
+.box{
+    position: relative;
+    padding: 0%;
+}
 section.banner{
     padding: 180px 0;
     position: relative;
@@ -23,10 +27,6 @@ section.banner > .container{
     position: relative;
 }
 
-.box{
-    position: relative;
-    top: 30px;
-}
 
 .chamada-banner h2{
     color: #850b07;
