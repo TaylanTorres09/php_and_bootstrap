@@ -117,6 +117,52 @@
                 </div>
             </div>
         </section>
+
+        <section class="equipe">
+            <h2>Equipe</h2>
+            <div class="container equipe-container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="equipe-single">
+                            <div class="row">
+                                <div class="col-md-2">
+                                    <div class="user-picture">
+                                        <div class="user-picture-child"></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <h3>Ostrogogildo</h3>
+                                    <p>Mussum Ipsum, cacilds vidis litro abertis. 
+                                        Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, 
+                                        eget.Nec orci ornare consequat. Praesent lacinia ultrices consectetur. 
+                                        Sed non ipsum felis.Viva Forevis aptent taciti sociosqu ad litora torquent.
+                                        Casamentiss faiz malandris se pirulitá.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="equipe-single">
+                            <div class="row">
+                                <div class="col-md-2">
+                                    <div class="user-picture">
+                                        <div class="user-picture-child"></div>
+                                    </div>
+                                </div>
+                                <div class="col-md-10">
+                                    <h3>Ostrogogildo</h3>
+                                    <p>Mussum Ipsum, cacilds vidis litro abertis. 
+                                        Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, 
+                                        eget.Nec orci ornare consequat. Praesent lacinia ultrices consectetur. 
+                                        Sed non ipsum felis.Viva Forevis aptent taciti sociosqu ad litora torquent.
+                                        Casamentiss faiz malandris se pirulitá.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
