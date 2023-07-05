@@ -188,7 +188,35 @@
                             <button type="submit" class="btn btn-default">Submit</button>
                         </form>
                     </div>
-                    <div class="col-md-6"></div>
+                    <div class="col-md-6">
+                        <h2>Nossos Planos</h2>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th>Plano Semanal</th>
+                                    <th>Plano Diário</th>
+                                    <th>Plano Anual</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>R$199,00</td>
+                                    <td>R$299,00</td>
+                                    <td>R$399,00</td>
+                                </tr>
+                                <tr>
+                                    <td>R$199,00</td>
+                                    <td>R$299,00</td>
+                                    <td>R$399,00</td>
+                                </tr>
+                                <tr>
+                                    <td>R$199,00</td>
+                                    <td>R$299,00</td>
+                                    <td>R$399,00</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
             </div>
         </section>
