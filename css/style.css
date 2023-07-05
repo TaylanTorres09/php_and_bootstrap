@@ -155,4 +155,9 @@ section.equipe h2{
         font-size: 35px;
     }
     
+    section.cadastro-lead input[type=submit] {
+        width: 200px;
+        margin-top: 8px;
+        display: inline-block;
+    }
 }
