@@ -163,6 +163,35 @@
                 </div>
             </div>
         </section>
+
+        <section class="final-site">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Fale Conosco</h2>
+                        <form>
+                            <div class="form-group">
+                                <label for="nome">Nome:</label>
+                                <input type="text" class="form-control" id="nome">
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Endereço Email:</label>
+                                <input type="email" class="form-control" id="email">
+                            </div>
+                            <div class="form-group">
+                                <label for="msg">Mensagem:</label>
+                                <textarea class="form-control"></textarea>
+                            </div>
+                            <div class="checkbox">
+                                <label><input type="checkbox">Lembrar-se</label>
+                            </div>
+                            <button type="submit" class="btn btn-default">Submit</button>
+                        </form>
+                    </div>
+                    <div class="col-md-6"></div>
+                </div>
+            </div>
+        </section>
     </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
