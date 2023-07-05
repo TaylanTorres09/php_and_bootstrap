@@ -151,6 +151,16 @@ section.final-site h2 {
     font-size: 26px;
 }
 
+footer{
+    background: #4b4b4b;
+    padding: 10px 0;
+}
+
+footer p{
+    margin: 0;
+    color: white;
+}
+
 @media screen and (max-width: 1024px){
 
     .user-picture{
